@@ -63,7 +63,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support FractalFlow’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support FractalFlow’s development through [GitHub Sponsors](https://github.com/sponsors/adrianzueadum)! Your contributions fund:
 - New fractal algorithms and level designs.
 - Enhanced terrain manipulation mechanics.
 - Tutorials for C++ and procedural generation.
